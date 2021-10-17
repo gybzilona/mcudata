@@ -1,47 +1,47 @@
-Source,Rating,Name
-IMDB,66,The incredible Hulk
-IMDB,69,Captain America: The first Avenger
-IMDB,70,Thor
-IMDB,73,Ant-Man
-IMDB,79,Iron Man
-IMDB,70,Ant-Man and the Wasp
-IMDB,70,Iron Man 2
-IMDB,68,Thor: The dark world
-IMDB,75,Doctor Strange 
-IMDB,77,Captain America : The Winter Soldier
-IMDB,80,Guardians Of the Galaxy
-IMDB,79,Thor:Ragnarok
-IMDB,76,Guardians of the Galaxy Vol. 2
-IMDB,74,Spider-Man:Homecoming
-IMDB,68,Captain-Marvel
-IMDB,75,Spider-Man:Far From Home
-IMDB,78,Captain America: Civil War
-IMDB,71,Iron Man 3
-IMDB,73,Black Panther
-IMDB,73,Avengers : Age of ultron
-IMDB,80,Marvel's the Avengers
-IMDB,84,Avengers: Infinity War
-IMDB,84,Avengers:Endgame
-METASCORE,61,The incredible Hulk
-METASCORE,66,Captain America: The first Avenger
-METASCORE,57,Thor
-METASCORE,64,Ant-Man
-METASCORE,79,Iron Man
-METASCORE,70,Ant-Man and the Wasp
-METASCORE,57,Iron Man 2
-METASCORE,54,Thor: The dark world
-METASCORE,72,Doctor Strange 
-METASCORE,70,Captain America : The Winter Soldier
-METASCORE,76,Guardians Of the Galaxy
-METASCORE,74,Thor:Ragnarok
-METASCORE,67,Guardians of the Galaxy Vol. 2
-METASCORE,73,Spider-Man:Homecoming
-METASCORE,64,Captain-Marvel
-METASCORE,69,Spider-Man:Far From Home
-METASCORE,75,Captain America: Civil War
-METASCORE,62,Iron Man 3
-METASCORE,88,Black Panther
-METASCORE,66,Avengers : Age of ultron
-METASCORE,69,Marvel's the Avengers
-METASCORE,68,Avengers: Infinity War
-METASCORE,78,Avengers:Endgame
+Source,Rating,Name,Rank
+IMDB,66,The incredible Hulk,23
+IMDB,69,Captain America: The first Avenger,20
+IMDB,70,Thor,18
+IMDB,73,Ant-Man,15
+IMDB,79,Iron Man,5
+IMDB,70,Ant-Man and the Wasp,19
+IMDB,70,Iron Man 2,17
+IMDB,68,Thor: The dark world,21
+IMDB,75,Doctor Strange ,11
+IMDB,77,Captain America : The Winter Soldier,8
+IMDB,80,Guardians Of the Galaxy,3
+IMDB,79,Thor:Ragnarok,6
+IMDB,76,Guardians of the Galaxy Vol. 2,9
+IMDB,74,Spider-Man:Homecoming,12
+IMDB,68,Captain-Marvel,22
+IMDB,75,Spider-Man:Far From Home,10
+IMDB,78,Captain America: Civil War,7
+IMDB,71,Iron Man 3,16
+IMDB,73,Black Panther,13
+IMDB,73,Avengers : Age of ultron,14
+IMDB,80,Marvel's the Avengers,4
+IMDB,84,Avengers: Infinity War,2
+IMDB,84,Avengers:Endgame,1
+METASCORE,61,The incredible Hulk,20
+METASCORE,66,Captain America: The first Avenger,16
+METASCORE,57,Thor,21
+METASCORE,64,Ant-Man,17
+METASCORE,79,Iron Man,2
+METASCORE,70,Ant-Man and the Wasp,10
+METASCORE,57,Iron Man 2,22
+METASCORE,54,Thor: The dark world,23
+METASCORE,72,Doctor Strange ,8
+METASCORE,70,Captain America : The Winter Soldier,9
+METASCORE,76,Guardians Of the Galaxy,4
+METASCORE,74,Thor:Ragnarok,6
+METASCORE,67,Guardians of the Galaxy Vol. 2,14
+METASCORE,73,Spider-Man:Homecoming,7
+METASCORE,64,Captain-Marvel,18
+METASCORE,69,Spider-Man:Far From Home,11
+METASCORE,75,Captain America: Civil War,5
+METASCORE,62,Iron Man 3,19
+METASCORE,88,Black Panther,1
+METASCORE,66,Avengers : Age of ultron,15
+METASCORE,69,Marvel's the Avengers,12
+METASCORE,68,Avengers: Infinity War,13
+METASCORE,78,Avengers:Endgame,3
